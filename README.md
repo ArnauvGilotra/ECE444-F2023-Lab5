@@ -7,7 +7,8 @@ This repository was created by going through the following repository: [mjhea0/f
 
 ## Unit test in group project
 
-TBD...
+Pushed a single Testcase file from my local project env for this lab: https://github.com/ECE444-2023Fall/project-1-web-application-design-novatech/blob/main/Tests/app_tests.py 
+I am testing the login infra and the event discovery system. There are multiple unit tests
 
 ---
 
